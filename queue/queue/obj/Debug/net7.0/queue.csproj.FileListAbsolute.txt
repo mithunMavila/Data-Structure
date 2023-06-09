@@ -1,0 +1,15 @@
+C:\Users\Mithu\source\repos\queue\queue\bin\Debug\net7.0\queue.exe
+C:\Users\Mithu\source\repos\queue\queue\bin\Debug\net7.0\queue.deps.json
+C:\Users\Mithu\source\repos\queue\queue\bin\Debug\net7.0\queue.runtimeconfig.json
+C:\Users\Mithu\source\repos\queue\queue\bin\Debug\net7.0\queue.dll
+C:\Users\Mithu\source\repos\queue\queue\bin\Debug\net7.0\queue.pdb
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.csproj.AssemblyReference.cache
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.AssemblyInfoInputs.cache
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.AssemblyInfo.cs
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.csproj.CoreCompileInputs.cache
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.dll
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\refint\queue.dll
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.pdb
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\queue.genruntimeconfig.cache
+C:\Users\Mithu\source\repos\queue\queue\obj\Debug\net7.0\ref\queue.dll

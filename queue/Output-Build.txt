@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: queue, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>queue -> C:\Users\Mithu\source\repos\queue\queue\bin\Debug\net7.0\queue.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:52 PM and took 01.173 seconds ==========

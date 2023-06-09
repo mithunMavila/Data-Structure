@@ -1,0 +1,15 @@
+C:\Users\Mithu\source\repos\tree\tree\bin\Debug\net7.0\tree.exe
+C:\Users\Mithu\source\repos\tree\tree\bin\Debug\net7.0\tree.deps.json
+C:\Users\Mithu\source\repos\tree\tree\bin\Debug\net7.0\tree.runtimeconfig.json
+C:\Users\Mithu\source\repos\tree\tree\bin\Debug\net7.0\tree.dll
+C:\Users\Mithu\source\repos\tree\tree\bin\Debug\net7.0\tree.pdb
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.csproj.AssemblyReference.cache
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.AssemblyInfoInputs.cache
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.AssemblyInfo.cs
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.csproj.CoreCompileInputs.cache
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.dll
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\refint\tree.dll
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.pdb
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\tree.genruntimeconfig.cache
+C:\Users\Mithu\source\repos\tree\tree\obj\Debug\net7.0\ref\tree.dll

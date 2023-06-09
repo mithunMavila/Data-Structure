@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: trie, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>trie -> C:\Users\Mithu\source\repos\trie\trie\bin\Debug\net7.0\trie.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:17 AM and took 00.382 seconds ==========

@@ -1,0 +1,15 @@
+C:\Users\Mithu\source\repos\recursioon\recursioon\bin\Debug\net7.0\recursioon.exe
+C:\Users\Mithu\source\repos\recursioon\recursioon\bin\Debug\net7.0\recursioon.deps.json
+C:\Users\Mithu\source\repos\recursioon\recursioon\bin\Debug\net7.0\recursioon.runtimeconfig.json
+C:\Users\Mithu\source\repos\recursioon\recursioon\bin\Debug\net7.0\recursioon.dll
+C:\Users\Mithu\source\repos\recursioon\recursioon\bin\Debug\net7.0\recursioon.pdb
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.csproj.AssemblyReference.cache
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.AssemblyInfoInputs.cache
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.AssemblyInfo.cs
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.csproj.CoreCompileInputs.cache
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.dll
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\refint\recursioon.dll
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.pdb
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\recursioon.genruntimeconfig.cache
+C:\Users\Mithu\source\repos\recursioon\recursioon\obj\Debug\net7.0\ref\recursioon.dll

@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: stack, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Mithu\source\repos\stack\stack\Program.cs(3,18,3,23): warning CS8981: The type name 'stack' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>stack -> C:\Users\Mithu\source\repos\stack\stack\bin\Debug\net7.0\stack.dll
+1>Done building project "stack.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:07 PM and took 00.346 seconds ==========

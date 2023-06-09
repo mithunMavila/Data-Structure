@@ -1,0 +1,15 @@
+C:\Users\Mithu\source\repos\trie\trie\bin\Debug\net7.0\trie.exe
+C:\Users\Mithu\source\repos\trie\trie\bin\Debug\net7.0\trie.deps.json
+C:\Users\Mithu\source\repos\trie\trie\bin\Debug\net7.0\trie.runtimeconfig.json
+C:\Users\Mithu\source\repos\trie\trie\bin\Debug\net7.0\trie.dll
+C:\Users\Mithu\source\repos\trie\trie\bin\Debug\net7.0\trie.pdb
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.csproj.AssemblyReference.cache
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.AssemblyInfoInputs.cache
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.AssemblyInfo.cs
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.csproj.CoreCompileInputs.cache
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.dll
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\refint\trie.dll
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.pdb
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\trie.genruntimeconfig.cache
+C:\Users\Mithu\source\repos\trie\trie\obj\Debug\net7.0\ref\trie.dll

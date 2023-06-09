@@ -1,0 +1,15 @@
+C:\Users\Mithu\source\repos\stack\stack\bin\Debug\net7.0\stack.exe
+C:\Users\Mithu\source\repos\stack\stack\bin\Debug\net7.0\stack.deps.json
+C:\Users\Mithu\source\repos\stack\stack\bin\Debug\net7.0\stack.runtimeconfig.json
+C:\Users\Mithu\source\repos\stack\stack\bin\Debug\net7.0\stack.dll
+C:\Users\Mithu\source\repos\stack\stack\bin\Debug\net7.0\stack.pdb
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.csproj.AssemblyReference.cache
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.AssemblyInfoInputs.cache
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.AssemblyInfo.cs
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.dll
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\refint\stack.dll
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.pdb
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\stack.genruntimeconfig.cache
+C:\Users\Mithu\source\repos\stack\stack\obj\Debug\net7.0\ref\stack.dll

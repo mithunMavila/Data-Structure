@@ -1,0 +1,15 @@
+C:\Users\Mithu\source\repos\graph\graph\bin\Debug\net7.0\graph.exe
+C:\Users\Mithu\source\repos\graph\graph\bin\Debug\net7.0\graph.deps.json
+C:\Users\Mithu\source\repos\graph\graph\bin\Debug\net7.0\graph.runtimeconfig.json
+C:\Users\Mithu\source\repos\graph\graph\bin\Debug\net7.0\graph.dll
+C:\Users\Mithu\source\repos\graph\graph\bin\Debug\net7.0\graph.pdb
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.csproj.AssemblyReference.cache
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.AssemblyInfoInputs.cache
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.AssemblyInfo.cs
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.csproj.CoreCompileInputs.cache
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.dll
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\refint\graph.dll
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.pdb
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\graph.genruntimeconfig.cache
+C:\Users\Mithu\source\repos\graph\graph\obj\Debug\net7.0\ref\graph.dll

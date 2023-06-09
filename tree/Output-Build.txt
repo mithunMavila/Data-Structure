@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: tree, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Mithu\source\repos\tree\tree\Program.cs(5,18,5,22): warning CS8981: The type name 'node' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>C:\Users\Mithu\source\repos\tree\tree\Program.cs(11,18,11,22): warning CS8981: The type name 'tree' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>tree -> C:\Users\Mithu\source\repos\tree\tree\bin\Debug\net7.0\tree.dll
+1>Done building project "tree.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 5:10 PM and took 02.021 seconds ==========

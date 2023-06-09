@@ -1,0 +1,15 @@
+C:\Users\Mithu\source\repos\binary\binary\bin\Debug\net7.0\binary.exe
+C:\Users\Mithu\source\repos\binary\binary\bin\Debug\net7.0\binary.deps.json
+C:\Users\Mithu\source\repos\binary\binary\bin\Debug\net7.0\binary.runtimeconfig.json
+C:\Users\Mithu\source\repos\binary\binary\bin\Debug\net7.0\binary.dll
+C:\Users\Mithu\source\repos\binary\binary\bin\Debug\net7.0\binary.pdb
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.csproj.AssemblyReference.cache
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.AssemblyInfoInputs.cache
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.AssemblyInfo.cs
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.csproj.CoreCompileInputs.cache
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.dll
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\refint\binary.dll
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.pdb
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\binary.genruntimeconfig.cache
+C:\Users\Mithu\source\repos\binary\binary\obj\Debug\net7.0\ref\binary.dll
